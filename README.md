@@ -3,3 +3,5 @@
       <img src ="https://github-readme-streak-stats.herokuapp.com?user=syrkis&theme=darcula&hide_border=true&background=FFFFFF00" width = 400>
 
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
