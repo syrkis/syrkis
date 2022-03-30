@@ -3,6 +3,7 @@
       <img src ="https://github-readme-streak-stats.herokuapp.com?user=syrkis&theme=darcula&hide_border=true&background=FFFFFF00" width = 400>
 
 </p>-->
+Running seven day development stats
 <!--START_SECTION:waka-->
 
 ```text
