@@ -3,6 +3,7 @@
       <img src ="https://github-readme-streak-stats.herokuapp.com?user=syrkis&theme=darcula&hide_border=true&background=FFFFFF00" width = 400>
 
 </p>-->
+<p align="center">Rolling seven day coding average</p>
 <!--START_SECTION:waka-->
 
 ```text
