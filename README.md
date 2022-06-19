@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   22 mins         ███████████████▒░░░░░░░░░   61.19 %
-VimL     9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
-fish     5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
