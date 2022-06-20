@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   42 mins         ████████████████████░░░░░   79.74 %
+JSON     10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+VimL     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
