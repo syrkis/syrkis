@@ -3,7 +3,7 @@
       <img src ="https://github-readme-streak-stats.herokuapp.com?user=syrkis&theme=darcula&hide_border=true&background=FFFFFF00" width = 400>
 
 </p>-->
-<p align="center">Rolling seven day coding stats:</p>
+<p align="center">Rolling seven day <a href='https://wakatime.com/'> WakaTime</a> coding stats:</p>
 <!--START_SECTION:waka-->
 
 ```text
