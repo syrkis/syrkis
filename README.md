@@ -7,10 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           5 hrs           ██████████████████████▓░░   91.18 %
-Jupyter          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Git Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python           3 hrs 17 mins   ██████████████████████░░░   87.50 %
+Jupyter          25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Git Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
