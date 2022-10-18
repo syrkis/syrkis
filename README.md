@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 36 mins   ██████████████████████░░░   87.87 %
-Svelte       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   3 hrs 11 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
