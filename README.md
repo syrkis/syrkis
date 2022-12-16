@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       7 hrs 36 mins   >>>>>>>>>>>>>>>>>>-------   72.00 %
-Jupyter      2 hrs 37 mins   >>>>>>-------------------   24.78 %
-Other        14 mins         >------------------------   02.29 %
+Svelte       7 hrs 36 mins   >>>>>>>>>>>>>>>>>>-------   70.36 %
+Jupyter      2 hrs 50 mins   >>>>>>>------------------   26.32 %
+Other        14 mins         >------------------------   02.24 %
 ```
 
 <!--END_SECTION:waka-->
