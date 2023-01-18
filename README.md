@@ -7,10 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python      4 hrs 58 mins   >>>>>>>>>>>>>>>>>>-------   73.16 %
-Markdown    1 hr 10 mins    >>>>---------------------   17.37 %
-sh          33 mins         >>-----------------------   08.16 %
-gitignore   5 mins          -------------------------   01.32 %
+Python      3 hrs 2 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.82 %
+gitignore   0 secs          -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
