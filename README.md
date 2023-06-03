@@ -6,7 +6,7 @@
 <p align="center">Rolling seven day <a href='https://wakatime.com/'> WakaTime</a> coding stats:</p>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Svelte       11 hrs 51 mins  >>>>>>>>>----------------   36.30 %
 Python       7 hrs 58 mins   >>>>>>-------------------   24.42 %
 TypeScript   3 hrs 25 mins   >>>----------------------   10.48 %
