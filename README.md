@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       11 hrs 51 mins  >>>>>>>>-----------------   33.86 %
-Python       10 hrs 43 mins  >>>>>>>>-----------------   30.61 %
-TypeScript   3 hrs 25 mins   >>-----------------------   09.77 %
-Markdown     3 hrs 16 mins   >>-----------------------   09.32 %
-YAML         2 hrs 44 mins   >>-----------------------   07.80 %
+Python       17 hrs 26 mins  >>>>>>>>>>>>-------------   47.28 %
+Svelte       8 hrs 48 mins   >>>>>>-------------------   23.85 %
+Markdown     3 hrs 27 mins   >>-----------------------   09.39 %
+TypeScript   2 hrs 46 mins   >>-----------------------   07.50 %
+YAML         2 hrs 31 mins   >>-----------------------   06.86 %
 ```
 
 <!--END_SECTION:waka-->
