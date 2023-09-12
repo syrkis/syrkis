@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte         19 hrs 10 mins  >>>>>>>>>>>>>>>>>>-------   70.26 %
-Markdown       4 hrs 26 mins   >>>>---------------------   16.27 %
-TypeScript     1 hr 16 mins    >------------------------   04.69 %
-ActionScript   49 mins         >------------------------   02.99 %
-YAML           39 mins         >------------------------   02.44 %
+Svelte         19 hrs 45 mins  >>>>>>>>>>>>>>>>>--------   67.13 %
+Markdown       4 hrs 26 mins   >>>>---------------------   15.09 %
+Ezhil          1 hr 22 mins    >------------------------   04.66 %
+TypeScript     1 hr 16 mins    >------------------------   04.35 %
+ActionScript   49 mins         >------------------------   02.78 %
 ```
 
 <!--END_SECTION:waka-->
