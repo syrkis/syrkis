@@ -1,5 +1,5 @@
-<p>Welcome to my GitHub profile! I'm currently focused on decoding the human brain (see `neuroscope`).</p>
-  
+A dedicated space by a Neuro-Cognitive Data Scientist, exploring a variety of projects focused on algorithmic models and insights from neuroscience, with an occasional foray into algorithmic art. Feel free to delve into the repositories, engage in discussions, or reach out for collaboration.
+
 <p align="center">Rolling seven day <a href='https://wakatime.com/'> WakaTime</a> coding stats:</p>
 <!--START_SECTION:waka-->
 
