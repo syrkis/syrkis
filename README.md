@@ -2,7 +2,7 @@ Hello! I'm a Neuro-Cognitive Data Scientist. Here, you'll find a variety of proj
 
 If you're seeking consultation, are interested in collaboration, or have any questions, get in <a href='mailto:desk@syrkis.com?subject=Getting%20in%20touch'>touch</a>!
 
-<p align="center">Rolling seven day <a href='https://wakatime.com/'> WakaTime</a> coding stats:</p>
+<p align="center">Rolling seven day WakaTime coding stats:</p>
 <!--START_SECTION:waka-->
 
 ```txt
