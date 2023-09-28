@@ -1,4 +1,4 @@
-Hello! I'm a Neuro-Cognitive Data Scientist. Welcome to my code space. Here, you'll find a variety of projects that span across numerous fields. These include brain decoding, artificial neuroscience, information theory, different kinds of signal processing, human-computer interfaces (including front-end development), and algorithmic art. 
+Hello! I'm a Neuro-Cognitive Data Scientist. Here, you'll find a variety of projects that span across numerous fields. These include brain decoding, artificial neuroscience, information theory, different kinds of signal processing, human-computer interfaces (including front-end development), and algorithmic art. 
 
 If you're seeking consultation, are interested in collaboration, or have any questions, feel free to get in touch!
 
