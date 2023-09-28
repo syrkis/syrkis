@@ -1,4 +1,6 @@
-A dedicated space by a Neuro-Cognitive Data Scientist, exploring a variety of projects focused on algorithmic models and insights from neuroscience, with an occasional foray into algorithmic art. Feel free to delve into the repositories, engage in discussions, or reach out for collaboration.
+Hello! I'm a Neuro-Cognitive Data Scientist. Welcome to my code space. Here, you'll find a variety of projects that span across numerous fields. These include brain decoding, artificial neuroscience, information theory, different kinds of signal processing, human-computer interfaces (including front-end development), and algorithmic art. 
+
+If you're seeking consultation, are interested in collaboration, or if you have any questions that I might be able to answer, feel free to get in touch!
 
 <p align="center">Rolling seven day <a href='https://wakatime.com/'> WakaTime</a> coding stats:</p>
 <!--START_SECTION:waka-->
