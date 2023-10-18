@@ -6,11 +6,11 @@ If you're seeking consultation, are interested in collaboration, or have any que
 <!--START_SECTION:waka-->
 
 ```txt
-Python       12 hrs 57 mins  >>>>>>>>>>>>>>>>>>-------   70.79 %
-Markdown     4 hrs 27 mins   >>>>>>-------------------   24.33 %
-HTML         25 mins         >------------------------   02.28 %
-C#           12 mins         -------------------------   01.13 %
-TypeScript   5 mins          -------------------------   00.53 %
+Python       12 hrs 57 mins  >>>>>>>>>>>>>>>----------   59.64 %
+Markdown     7 hrs 52 mins   >>>>>>>>>----------------   36.24 %
+HTML         25 mins         -------------------------   01.92 %
+C#           12 mins         -------------------------   00.95 %
+TypeScript   5 mins          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
