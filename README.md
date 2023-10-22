@@ -6,11 +6,11 @@ If you're seeking consultation, are interested in collaboration, or have any que
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 hrs           >>>>>>>>>>>>>>>>>>-------   71.86 %
-Ezhil        54 mins         >>-----------------------   09.39 %
-Other        50 mins         >>-----------------------   08.59 %
-Python       33 mins         >------------------------   05.80 %
-Svelte       11 mins         -------------------------   01.99 %
+Markdown     5 hrs 34 mins   >>>>>>>>>>>>>>>>>>-------   73.25 %
+Ezhil        54 mins         >>>----------------------   12.03 %
+Other        50 mins         >>>----------------------   11.01 %
+Svelte       10 mins         >------------------------   02.19 %
+YAML         3 mins          -------------------------   00.72 %
 ```
 
 <!--END_SECTION:waka-->
