@@ -6,11 +6,11 @@ If you're seeking consultation, are interested in collaboration, or have any que
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 18 mins   >>>>>>>>>>---------------   40.60 %
-Svelte       7 hrs 5 mins    >>>>>>>>>>---------------   39.38 %
-Markdown     2 hrs 31 mins   >>>>---------------------   14.00 %
-Prolog       49 mins         >------------------------   04.55 %
-Lean         11 mins         -------------------------   01.03 %
+Python       7 hrs 23 mins   >>>>>>>>>>---------------   40.81 %
+Svelte       7 hrs 5 mins    >>>>>>>>>>---------------   39.12 %
+Markdown     3 hrs 22 mins   >>>>>--------------------   18.61 %
+Lean         11 mins         -------------------------   01.02 %
+Other        2 mins          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
