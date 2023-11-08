@@ -6,10 +6,9 @@ If you're seeking consultation, are interested in collaboration, or have any que
 <!--START_SECTION:waka-->
 
 ```txt
-Python     7 hrs 12 mins   >>>>>>>>>>>>>>-----------   54.97 %
-Markdown   5 hrs 51 mins   >>>>>>>>>>>--------------   44.69 %
-Svelte     2 mins          -------------------------   00.33 %
-Other      0 secs          -------------------------   00.00 %
+Python     7 hrs 7 mins    >>>>>>>>>>>>>>>----------   60.06 %
+Markdown   4 hrs 41 mins   >>>>>>>>>>---------------   39.57 %
+Svelte     2 mins          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
