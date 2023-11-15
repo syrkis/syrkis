@@ -1,3 +1,4 @@
-from .utils import save_model_weights, load_model_weights
+from .utils import save_params, load_params, n_params
+from .plots import plot_multiples
 
-__all__ = ["save_model_weights", "load_model_weights"]
+__all__ = ["save_params", "load_params", "n_params", "plot_multiples"]

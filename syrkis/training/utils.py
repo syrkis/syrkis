@@ -10,7 +10,7 @@ import pickle
 from jax.tree_util import tree_flatten, tree_unflatten
 
 
-def save_model_weights(params, path="model"):
+def save_params(params, path="model"):
     """Save JAX model weights to csvs."""
     flat_params, structure = tree_flatten(params)
     for i, param in enumerate(flat_params):
@@ -19,7 +19,7 @@ def save_model_weights(params, path="model"):
         pickle.dump(structure, f)
 
 
-def load_model_weights(path="model"):
+def load_params(path="model"):
     """Load JAX model weights from csvs."""
     # Load the structure
     with open(os.path.join(path, "structure.pkl"), "rb") as f:
@@ -36,3 +36,11 @@ def load_model_weights(path="model"):
     # Reconstruct the original params structure
     params = tree_unflatten(structure, flat_params)
     return params
+
+
+def n_params(params):
+    flat_params, _ = tree_flatten(params)
+    n_params = 0
+    for param in flat_params:
+        n_params += param.size
+    return n_params
