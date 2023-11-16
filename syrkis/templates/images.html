@@ -26,19 +26,28 @@
             align-items: center; 
         }
         .info-bar {
-            padding-top: 30px;
-            text-align: center;
-            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 90%;
+            padding: 20px 0;
             font-size: 20px;
+            margin: 0 auto;
         }
-        ul {
+        .info-bar ul {
+            display: flex;
+            justify-content: center;
+            width: 100%;
             list-style-type: none;
-            margin: 0;
             padding: 0;
+            margin: 0;
         }
-        li {
-            display: inline-block;
-            margin: 0 50px;
+        .info-bar li {
+            flex: 1; /* Flex grow to fill the space */
+            text-align: center; /* Center the text horizontally */
+            margin: 0 10px; /* Optional: to give some space between items */
+            padding: 40px 0px; /* Optional: for some padding inside the items */
+            font-size: 1.1em;
         }
     </style>
 </head>
