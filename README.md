@@ -4,11 +4,11 @@ Hello! I'm a Neuro-Cognitive Data Scientist. Here, you'll find a variety of proj
 <!--START_SECTION:waka-->
 
 ```txt
-Python     43 hrs 29 mins  >>>>>>>>>>>>>>>>>>>>>----   82.35 %
-YAML       5 hrs 33 mins   >>>----------------------   10.54 %
-Markdown   2 hrs 8 mins    >------------------------   04.04 %
-Docker     47 mins         -------------------------   01.51 %
-C#         17 mins         -------------------------   00.54 %
+Python     50 hrs 6 mins   >>>>>>>>>>>>>>>>>>>>>----   84.70 %
+YAML       5 hrs 33 mins   >>-----------------------   09.39 %
+Markdown   2 hrs 56 mins   >------------------------   04.96 %
+C#         17 mins         -------------------------   00.48 %
+Other      11 mins         -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
