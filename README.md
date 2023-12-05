@@ -4,9 +4,8 @@ Hello! I'm a Neuro-Cognitive Data Scientist. Here, you'll find a variety of proj
 <!--START_SECTION:waka-->
 
 ```txt
-Python     13 hrs 5 mins   >>>>>>>>>>>>>>>>>>>------   75.88 %
-Markdown   4 hrs 8 mins    >>>>>>-------------------   24.02 %
-HTML       1 min           -------------------------   00.10 %
+Markdown   5 hrs 27 mins   >>>>>>>>>>>>>>-----------   55.02 %
+Python     4 hrs 27 mins   >>>>>>>>>>>--------------   44.98 %
 Other      0 secs          -------------------------   00.00 %
 ```
 
