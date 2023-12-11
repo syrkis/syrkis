@@ -1,3 +1,5 @@
-from . import training
+from . import train
+from . import data
+from . import plot
 
-__all__ = ['training']
+__all__ = ['train', 'data', 'plot']

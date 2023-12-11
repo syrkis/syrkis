@@ -1,41 +1,54 @@
-# plots.py
-#     neuroscope plots
+# plot.py
+#    syrkis plots
 # by: Noah Syrkis
 
 # imports
 import numpy as np
-from IPython.display import display, Image, clear_output
-import matplotlib.pyplot as plt
-import imageio
-import networkx as nx
-from nilearn import plotting
-from tqdm import tqdm
+from IPython.display import display, clear_output
 from IPython.display import display, HTML
-import time
 import numpy as np
 import base64
-import os
 from PIL import Image as PILImage
 from io import BytesIO
-from jinja2 import Template, Environment, FileSystemLoader
-from jax import vmap
+from jinja2 import Environment, FileSystemLoader
 import darkdetect
+import imgkit
 
 
 # globals
-# templates folder is located in the same folder as this file (which is part of a module)
 TEMPLATE_DIR = '/Users/syrkis/code/syrkis/syrkis/templates'
 env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
 
 
-def plot_multiples(imgs, n_rows=2, n_cols=6, info_bar=None):
+# functions
+def multiples(imgs, info, figsize=(6, 3)):
+    top, bottom, path = info.get('top'), info.get('bottom'), info.get('path')
+    invertable = imgs[0].shape[-1] == 1
+    n_cols, n_rows = figsize
     imgs = np.array(imgs[:n_rows * n_cols])
+    if invertable and not darkdetect.isDark():
+        imgs = np.abs(1 - imgs)
     template = env.get_template('images.html')
     imgs = [matrix_to_image(pred) for pred in imgs]
-    background = "dark" if darkdetect.isDark() else "white"
-    html = template.render(images=imgs, n_cols=n_cols, info_bar=info_bar if info_bar else [""], background=background)
+    background = "black" if darkdetect.isDark() else "white"
+    html = template.render(images=imgs, n_cols=n_cols, low_bar=bottom if bottom else [""],
+                            top_bar=top if top else [""], background=background)
+
+    # html to image for saving to path if path is given
+    if path:
+        save_to_image(html, path)
+
     clear_output(wait=True)
     display(HTML(html))
+
+
+def save_to_image(html, path):
+    options = {
+        'format': 'png',
+        'quality': '100',  # High-quality image
+    }
+    imgkit.from_string(html, path, options=options)
+
 
 
 def matrix_to_image(matrix):

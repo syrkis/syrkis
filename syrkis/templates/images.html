@@ -3,73 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <style>
+        :root {
+            --background-color: {{ background }};
+            --container-padding-top: 100px;
+            --info-bar-padding: 30px 0;
+            --info-bar-font-size: 0.8em;
+            --info-bar-margin: 0 10px;
+            --grid-gap: 40px;
+        }
         html, body {
-            font-family: serif;
+            font-family: 'Fira Code';
+            background-color: var(--background-color);
+            height: 100%;
+            margin: 0;
+            padding: 0;
         }
         .container {
-            padding-top: 100px;
+            padding-top: var(--container-padding-top);
             width: 100%;
             height: 100%;
         }
         .images {
             display: grid;
             grid-template-columns: repeat({{n_cols}}, 1fr);
-            gap: 40px;
+            gap: var(--grid-gap);
+        }
+        .image img {
+            display: block; /* Remove default inline spacing */
             width: 100%;
             height: auto;
-            margin: 0;
-            background-color: {{ background }};
-        }
-        .image {
-            display: flex;
-            justify-content: center;
-            align-items: center; 
         }
         .info-bar {
             display: flex;
-            justify-content: center;
+            justify-content: space-around; /* More semantic than center when dealing with multiple items */
             align-items: center;
             width: 90%;
-            padding: 20px 0;
-            font-size: 20px;
+            padding: var(--info-bar-padding);
             margin: 0 auto;
+            font-size: var(--info-bar-font-size);
         }
         .info-bar ul {
-            display: flex;
-            justify-content: center;
             width: 100%;
             list-style-type: none;
             padding: 0;
             margin: 0;
+            display: flex;
         }
         .info-bar li {
-            flex: 1; /* Flex grow to fill the space */
-            text-align: center; /* Center the text horizontally */
-            margin: 0 10px; /* Optional: to give some space between items */
-            padding: 40px 0px; /* Optional: for some padding inside the items */
-            font-size: 1.1em;
+            flex: 1;
+            text-align: center;
+            margin: var(--info-bar-margin);
         }
     </style>
 </head>
-
 <body>
-    <div class="container">
-        <div class="images">
-            {% for image in images %}
-            <div class='image'>
-                <img src="data:image/png;base64,{{image}}" alt="image" width="100%" height="100%">
-            </div>
-            {% endfor %}
-        </div>
-        <div class="info-bar">
+    <section class="container">
+        <nav class="info-bar">
             <ul>
-                {% for info in info_bar %}
-                    <li>
-                        <span>{{ info }}</span>
-                    </li>
+                {% for info in top_bar %}
+                    <li><span>{{ info }}</span></li>
                 {% endfor %}
             </ul>
-        </div>
-    </div>
+        </nav>
+        <main class="images">
+            {% for image in images %}
+            <div class='image'>
+                <img src="data:image/png;base64,{{image}}" alt="Descriptive text for image">
+            </div>
+            {% endfor %}
+        </main>
+        <footer class="info-bar">
+            <ul>
+                {% for info in low_bar %}
+                    <li><span>{{ info }}</span></li>
+                {% endfor %}
+            </ul>
+        </footer>
+    </section>
 </body>
 </html>
