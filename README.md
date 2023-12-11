@@ -13,7 +13,6 @@ Other      0 secs          -------------------------   00.03 %
 
 
 
-https://syrkis.ams3.digitaloceanspaces.com/files-bucket/9BD41B5E-8C18-40CB-8156-A4067395BC95.pdf
-
+https://syrkis.ams3.digitaloceanspaces.com/files-bucket/6196B24D-3C13-4808-BB87-582BDEBDD6CC.pdf
 
 https://syrkis.ams3.digitaloceanspaces.com/files-bucket/A494801D-EA0B-44F7-8569-7CA70576C4FC.gif
