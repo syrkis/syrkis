@@ -12,7 +12,6 @@ from PIL import Image as PILImage
 from io import BytesIO
 from jinja2 import Environment, FileSystemLoader
 import darkdetect
-import imgkit
 
 
 # globals
@@ -22,7 +21,7 @@ env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
 
 # functions
 def multiples(imgs, info={}, figsize=(6, 3)):
-    top, bottom, path = info.get('top'), info.get('bottom'), info.get('path')
+    top, bottom = info.get('top'), info.get('bottom')
     if len(imgs[0].shape) == 2:
         imgs = [np.expand_dims(img, axis=2) for img in imgs]  # add channel dim
     invertable = imgs[0].shape[-1] == 1
@@ -36,22 +35,8 @@ def multiples(imgs, info={}, figsize=(6, 3)):
     html = template.render(images=imgs, n_cols=n_cols, low_bar=bottom if bottom else [""],
                             top_bar=top if top else [""], background=background)
 
-    # html to image for saving to path if path is given
-    if path:
-        save_to_image(html, path)
-
     clear_output(wait=True)
     display(HTML(html))
-
-
-def save_to_image(html, path):
-    options = {
-        'format': 'png',
-        'quality': '100',  # High-quality image
-    }
-    imgkit.from_string(html, path, options=options)
-
-
 
 def matrix_to_image(matrix):
         # ensure all values are [0; 1]
