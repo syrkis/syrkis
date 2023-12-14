@@ -21,10 +21,12 @@ env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
 
 
 # functions
-def multiples(imgs, info, figsize=(6, 3)):
+def multiples(imgs, info={}, figsize=(6, 3)):
     top, bottom, path = info.get('top'), info.get('bottom'), info.get('path')
+    if len(imgs[0].shape) == 2:
+        imgs = [np.expand_dims(img, axis=2) for img in imgs]  # add channel dim
     invertable = imgs[0].shape[-1] == 1
-    n_cols, n_rows = figsize
+    n_rows, n_cols = figsize
     imgs = np.array(imgs[:n_rows * n_cols])
     if invertable and not darkdetect.isDark():
         imgs = np.abs(1 - imgs)

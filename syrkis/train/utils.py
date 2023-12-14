@@ -133,6 +133,12 @@ def conv2d(x, w):
         padding='SAME',
         dimension_numbers=DIMENSION_NUMBERS)
 
+def conv1d(x, w):
+    return jax.lax.conv_general_dilated(
+        x, w, 
+        window_strides=(1,),
+        padding='SAME',
+        dimension_numbers=('NWC', 'WIO', 'NWC'))
 
 @jit
 def upscale_nearest_neighbor(x, scale_factor=STRIDE):
