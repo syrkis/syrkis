@@ -1,4 +1,0 @@
-tensorflow_datasets
-jax
-jaxlib
-opencv-python
