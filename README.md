@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             7 hrs 48 mins   >>>>>>>>>>>>>>-----------   57.10 %
-Markdown           4 hrs 24 mins   >>>>>>>>-----------------   32.19 %
-Svelte             47 mins         >------------------------   05.74 %
-TOML               16 mins         -------------------------   01.96 %
-reStructuredText   15 mins         -------------------------   01.94 %
+Markdown           4 hrs 30 mins   >>>>>>>>>>>>>------------   52.65 %
+Python             2 hrs 35 mins   >>>>>>>>-----------------   30.27 %
+Svelte             47 mins         >>-----------------------   09.16 %
+TOML               16 mins         >------------------------   03.13 %
+reStructuredText   15 mins         >------------------------   03.10 %
 ```
 
 <!--END_SECTION:waka-->
