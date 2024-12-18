@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         20 hrs 29 mins  >>>>>>>>>>>>>------------   51.34 %
-Astro          11 hrs 51 mins  >>>>>>>------------------   29.68 %
-Objective-C    1 hr 42 mins    >------------------------   04.28 %
-JavaScript     1 hr 15 mins    >------------------------   03.16 %
-TypeScript     56 mins         >------------------------   02.37 %
+Python         15 hrs 44 mins  >>>>>>>>>>---------------   41.68 %
+Astro          13 hrs 2 mins   >>>>>>>>>----------------   34.55 %
+Objective-C    1 hr 43 mins    >------------------------   04.56 %
+CSS            1 hr 5 mins     >------------------------   02.91 %
+JavaScript     1 hr 5 mins     >------------------------   02.90 %
 ```
 
 <!--END_SECTION:waka-->
