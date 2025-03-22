@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro          8 hrs 40 mins   >>>>>>>>>>---------------   38.46 %
-Python         4 hrs 44 mins   >>>>>--------------------   20.98 %
-Nushell        3 hrs 54 mins   >>>>---------------------   17.36 %
-JavaScript     1 hr 5 mins     >------------------------   04.87 %
-TypeScript     51 mins         >------------------------   03.83 %
+Astro          8 hrs 40 mins   >>>>>>>>>>---------------   38.91 %
+Python         4 hrs 44 mins   >>>>>--------------------   21.23 %
+Nushell        3 hrs 54 mins   >>>>---------------------   17.56 %
+JavaScript     1 hr 5 mins     >------------------------   04.93 %
+TypeScript     51 mins         >------------------------   03.88 %
 ```
 
 <!--END_SECTION:waka-->
