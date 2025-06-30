@@ -2,7 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     2 mins          >>>>>>>>>>>>>>>>>>>>>>>>-   97.73 %
+Markdown   0 secs          >------------------------   02.27 %
 ```
 
 <!--END_SECTION:waka-->
