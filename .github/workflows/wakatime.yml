@@ -20,3 +20,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}    # Your Wakapi API key in secrets
           API_BASE_URL: https://wakapi.dev/api               # Custom Wakapi base URL
+          BLOCKS: -> # optional
