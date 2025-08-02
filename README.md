@@ -1,4 +1,4 @@
-<p align="center">Rolling seven day <a href="https://wakatime.com/@syrkis"/>WakaTime</a> coding stats:</p>
+<p align="center">Rolling seven day <a href="https://wakapi.dev/"/>wakapi</a> coding stats:</p>
 <!--START_SECTION:waka-->
 
 ```txt
