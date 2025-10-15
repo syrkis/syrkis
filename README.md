@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil          11 hrs 49 mins  >>>>>>>>>>>>>>>>>>>——————   75.13 %
-Typst          1 hrs 51 mins   >>>——————————————————————   11.79 %
-Actionscript   1 hrs 24 mins   >>———————————————————————   08.88 %
-Uiua           0 hrs 38 mins   >————————————————————————   04.04 %
-Objective-c    0 hrs 1 mins    —————————————————————————   00.07 %
+Ezhil          11 hrs 16 mins  >>>>>>>>>>>>>>>>>>>——————   74.33 %
+Typst          1 hrs 51 mins   >>>——————————————————————   12.23 %
+Actionscript   1 hrs 24 mins   >>———————————————————————   09.21 %
+Uiua           0 hrs 36 mins   >————————————————————————   03.91 %
+Jsonc          0 hrs 1 mins    —————————————————————————   00.12 %
 ```
 
 <!--END_SECTION:waka-->
