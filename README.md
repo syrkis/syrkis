@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil          11 hrs 3 mins   >>>>>>>>>>>>>>>>>>>——————   74.34 %
-Typst          1 hrs 47 mins   >>>——————————————————————   12.03 %
-Actionscript   1 hrs 24 mins   >>———————————————————————   09.39 %
-Uiua           0 hrs 35 mins   >————————————————————————   03.93 %
+Ezhil          11 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>—————   78.39 %
+Actionscript   2 hrs 14 mins   >>>>—————————————————————   15.78 %
+Uiua           0 hrs 47 mins   >————————————————————————   05.53 %
 Jsonc          0 hrs 1 mins    —————————————————————————   00.12 %
+Json           0 hrs 1 mins    —————————————————————————   00.10 %
 ```
 
 <!--END_SECTION:waka-->
