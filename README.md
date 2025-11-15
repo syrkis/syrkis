@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Uiua   0 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
