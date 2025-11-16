@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Typst   0 hrs 0 mins    —————————————————————————   00.00 %
 ```
 
 <!--END_SECTION:waka-->
