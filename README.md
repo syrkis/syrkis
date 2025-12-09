@@ -2,7 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Julia    0 hrs 24 mins   >>>>>>>>>————————————————   36.31 %
+Typst    0 hrs 24 mins   >>>>>>>>>————————————————   36.04 %
+Python   0 hrs 18 mins   >>>>>>>——————————————————   27.29 %
+Nix      0 hrs 0 mins    —————————————————————————   00.37 %
 ```
 
 <!--END_SECTION:waka-->
