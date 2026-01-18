@@ -2,8 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Uiua     0 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.43 %
-Python   0 hrs 1 mins    —————————————————————————   01.57 %
+Uiua   0 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
