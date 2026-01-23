@@ -2,7 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 hrs 0 mins    —————————————————————————   00.00 %
+Python   0 hrs 12 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.73 %
+Nix      0 hrs 0 mins    —————————————————————————   00.27 %
+Typst    0 hrs 0 mins    —————————————————————————   00.00 %
 ```
 
 <!--END_SECTION:waka-->
