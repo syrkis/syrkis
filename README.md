@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typst        4 hrs 31 mins         >>>>>>>>>————————————————   34.24 %
-Python       3 hrs 50 mins         >>>>>>>——————————————————   29.12 %
-Astro        1 hrs 20 mins         >>>——————————————————————   10.14 %
-Unknown      1 hrs 14 mins         >>———————————————————————   09.29 %
-Typescript   0 hrs 27 mins         >————————————————————————   03.43 %
+Typst        4 hrs 13 mins         >>>>>>>>—————————————————   32.88 %
+Python       3 hrs 51 mins         >>>>>>>>—————————————————   30.06 %
+Unknown      1 hrs 37 mins         >>>——————————————————————   12.62 %
+Astro        1 hrs 11 mins         >>———————————————————————   09.24 %
+Javascript   0 hrs 26 mins         >————————————————————————   03.38 %
 ```
 
 <!--END_SECTION:waka-->
