@@ -2,9 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Unknown    3 hrs 19 mins         >>>>>>>>>>>>>>>>>————————   69.33 %
-Typst      1 hrs 17 mins         >>>>>>>——————————————————   26.80 %
-Markdown   0 hrs 11 mins         >————————————————————————   03.87 %
+Unknown    4 hrs 20 mins         >>>>>>>>>>>>>>>>>>>>—————   81.21 %
+Typst      0 hrs 46 mins         >>>>—————————————————————   14.26 %
+Markdown   0 hrs 14 mins         >————————————————————————   04.40 %
+Nix        0 hrs 0 mins          —————————————————————————   00.13 %
 ```
 
 <!--END_SECTION:waka-->
