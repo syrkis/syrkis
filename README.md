@@ -2,10 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typst      2 hrs 7 mins          >>>>>>>>>>>>>>>>—————————   64.80 %
-Python     1 hrs 9 mins          >>>>>>>>>————————————————   35.20 %
+Python     3 hrs 0 mins          >>>>>>>>>>>>>————————————   51.53 %
+Typst      2 hrs 45 mins         >>>>>>>>>>>>—————————————   47.30 %
+Markdown   0 hrs 4 mins          —————————————————————————   01.17 %
 Nix        0 hrs 0 mins          —————————————————————————   00.00 %
-Markdown   0 hrs 0 mins          —————————————————————————   00.00 %
 ```
 
 <!--END_SECTION:waka-->
