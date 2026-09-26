@@ -2,10 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typst      5 hrs 34 mins         >>>>>>>>>>>>>>>>>————————   66.00 %
-Python     2 hrs 20 mins         >>>>>>>——————————————————   27.70 %
-Makefile   0 hrs 20 mins         >————————————————————————   03.92 %
-Markdown   0 hrs 12 mins         >————————————————————————   02.39 %
+Typst      4 hrs 43 mins         >>>>>>>>>>>>>>———————————   57.52 %
+Python     2 hrs 22 mins         >>>>>>>——————————————————   28.96 %
+Makefile   0 hrs 31 mins         >>———————————————————————   06.23 %
+Markdown   0 hrs 20 mins         >————————————————————————   04.12 %
+TOML       0 hrs 12 mins         >————————————————————————   02.44 %
 ```
 
 <!--END_SECTION:waka-->
